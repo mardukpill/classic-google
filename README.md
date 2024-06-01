@@ -10,14 +10,11 @@ By adding this parameter, it disables AI search features and search summaries.
 
 ## Screenshots
 
-### Google Search with AI Features
-![Google Search with AI Features](./images/toaster-ai.png)
+### Classic Google Search (with udm=14) 
+![Classic Google Search](./images/toaster-udm14.png)
 
 ### Current Google Search with Search Summary
 ![Current Google Search with Search Summary](./images/toaster-current.png)
-
-### Classic Google Search (with udm=14) 
-![Classic Google Search](./images/toaster-udm14.png)
 
 ## License
 
